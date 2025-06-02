@@ -1,6 +1,9 @@
 <!--## Hi there 👋-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hasan-Alii&theme=blue-navy&hide_border=true)](https://git.io/streak-stats)
 <!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hasan-Alii)
+-->
+<!--
 **Hasan-Alii/Hasan-Alii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
