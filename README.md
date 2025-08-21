@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I am a Self-driven and motivated software engineer with a strong passion for web development. Experienced in
+I am a Self-driven and motivated software engineer with a strong passion for web development. 
 
-designing, building, and optimizing software solutions using .NET Core, SQL DBs, React, and modern architectural
+Experienced in designing, building, and optimizing software solutions using .NET Core, SQL DBs, React, and modern architectural patterns. 
 
-patterns. Adept at problem solving, clean code principles, and scalable application development. I am
+Adept at problem solving, clean code principles, and scalable application development. 
 
-continuously eager to learn and adapt to new technologies in software engineering.
+I am continuously eager to learn and adapt to new technologies in software engineering.
 
 * ✉️  You can contact me at [hasan.aly.dev@gmail.com](mailto:hasan.aly.dev@gmail.com)
 * 🚀  I'm currently working on [Felosy-fen](http://felosy-fen.runasp.net/)
@@ -50,30 +50,9 @@ continuously eager to learn and adapt to new technologies in software engineerin
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hasan-Alii)&nbsp; &nbsp;
 [![wakatime](https://wakatime.com/badge/user/2aab0a2d-f18f-4561-8e43-d88b7b094b26.svg?style=flat)](https://wakatime.com/@2aab0a2d-f18f-4561-8e43-d88b7b094b26)
-<table>
-  <tr border="0">
-    <td>
-      <!-- 1: Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Hasan-Alii&theme=blue-navy&hide_border=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-      </a>
-    </td>
-    <td rowspan="2">
-      <!-- 3: Top Languages -->
-      <a href="https://github.com/Hasan-Alii">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Alii&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- 2: WakaTime -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jacko360&display_format=percent&theme=dark&layout=compact&langs_count=8" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hasan-Alii&theme=blue-navy&hide_border=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jacko360&display_format=percent&theme=dark&layout=compact&langs_count=8&border_color=1a1919" />
 
 
 <!--
